@@ -1,0 +1,15 @@
+module.exports = [
+  'slack',
+  'segment',
+  'mixpanel',
+  'github',
+  'google',
+  'facebook',
+  'apple',
+  'twitter',
+  'instagram',
+  'deezer',
+  'blablacar',
+  'gmail',
+  'chrome',
+]

@@ -1,0 +1,19 @@
+{
+  "name": "reservify",
+  "version": "0.1.0",
+  "node": "~8.1.0",
+  "description": "Util to check for reserved subdomain as facebook.example.com or wiki.example.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "domain",
+    "node"
+  ],
+  "author": "Pierre Renaudin",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}

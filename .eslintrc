@@ -1,0 +1,12 @@
+{
+  "env": {
+    "node": true
+  },
+  "plugins": [
+    "node"
+  ],
+  "extends": [
+    "eslint:recommended",
+    "plugin:node/recommended"
+  ]
+}

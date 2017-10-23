@@ -12,7 +12,7 @@
     "node"
   ],
   "author": "Pierre Renaudin",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "ava": "^0.22.0"
   }

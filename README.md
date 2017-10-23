@@ -26,9 +26,9 @@ reservify
   .add('slite')       // Add a reserved word
   .remove('weather')  // Remove a reserved word
 
-console.log(linkify.test('wiki'));  // true
-console.log(linkify.test('apple'));  // true
-console.log(linkify.test('saucette'));  // false
+console.log(reservify.test('wiki'));  // true
+console.log(reservify.test('apple'));  // true
+console.log(reservify.test('saucette'));  // false
 ```
 
 ## License
